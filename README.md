@@ -1,4 +1,4 @@
-# Telegram Message Mirror Bot 🔄
+# Telegram Message Mirror Bot
 
 *Read this in other languages: [English](README-en.md)*
 
