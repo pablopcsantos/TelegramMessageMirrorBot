@@ -1,4 +1,8 @@
-# Telegram Message Mirror Bot 🔄
+# Telegram Message Mirror Bot
+
+*Read this in other languages: [Português](README.md)*
+
+---
 
 Automation script developed in Python using the Telethon library, designed to asynchronously mirror messages between Telegram channels and groups.
 
