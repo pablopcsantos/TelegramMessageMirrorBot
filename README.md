@@ -17,16 +17,16 @@ Script de automação desenvolvido em Python utilizando a biblioteca Telethon, p
    ```bash
    pip install -r requirements.txt
    ```
-3. Abra o arquivo `bot.py` e insira suas credenciais do Telegram (`API_ID`, `API_HASH`) obtidas no site oficial my.telegram.org.
+3. Abra o arquivo `tg_msg_mirror_bot.py` e insira suas credenciais do Telegram (`API_ID`, `API_HASH`) obtidas no site oficial my.telegram.org.
 4. Configure as variáveis `CANAL_ORIGEM` e `CANAL_DESTINO` com o @username ou o ID numérico correspondente.
 5. Execute o script:
    ```bash
-   python bot.py
+   python tg_msg_mirror_bot.py
    ```
 
 ## 🔑 Como obter suas Credenciais e IDs
 
-Para que o bot funcione corretamente, você precisará preencher algumas variáveis no arquivo `bot.py`. Siga os passos abaixo para encontrar essas informações:
+Para que o bot funcione corretamente, você precisará preencher algumas variáveis no arquivo `tg_msg_mirror_bot.py`. Siga os passos abaixo para encontrar essas informações:
 
 ### 1. Obtendo `API_ID` e `API_HASH`
 Estas credenciais identificam o seu script junto aos servidores do Telegram.
