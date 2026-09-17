@@ -1,5 +1,9 @@
 # Telegram Message Mirror Bot 🔄
 
+*Read this in other languages: [English](README-en.md)*
+
+---
+
 Script de automação desenvolvido em Python utilizando a biblioteca Telethon, projetado para espelhar mensagens de forma assíncrona entre canais e grupos do Telegram.
 
 ## 🚀 Funcionalidades
