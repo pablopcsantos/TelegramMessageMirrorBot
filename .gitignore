@@ -1,0 +1,14 @@
+# Arquivos de Sessão do Telegram (Privado)
+*.session
+*.session-journal
+
+# Memória Local do Bot
+ultimo_id.txt
+mapa_topicos.json
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Variáveis de Ambiente
+.env
